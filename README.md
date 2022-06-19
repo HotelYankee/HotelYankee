@@ -15,4 +15,7 @@
   <img src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="2px"/>
   </h1>
 </div>
+
 ---
+
+### :Man_technologist: About Me :
