@@ -26,3 +26,5 @@
 - :zap: In my free time, I work on freelance projects to sharpen my skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IanJeanPierre-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-jean-pierre-76b2ab210/)
+---
+### :hammer_and_wrench: Languages and Tools :
