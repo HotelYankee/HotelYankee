@@ -18,4 +18,4 @@
 
 ---
 
-### :Man_technologist: About Me :
+### 🌐an_technologist: About Me :
