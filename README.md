@@ -11,8 +11,8 @@
 </div>
 <div align="center"><br>
   <img src="https://komarev.com/ghpvc/?username=HotelYankee&style=flat-square&color=blue" alt=""/>
-  
+  <h1>
   <img src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="2px"/>
-
+  </h1>
 </div>
 
