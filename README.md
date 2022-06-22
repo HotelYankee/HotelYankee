@@ -21,9 +21,9 @@
 ### About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Long Island, NY🗽
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Practicing my craft with goals to master my skills.
+- :seedling: Sharpening my skills to create cool projects.
 
-- :zap: In my free time, I execise and spend time with my family.
+- :zap: In my free time, I exercise and spend time with my family.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IanJeanPierre-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ian-jean-pierre-76b2ab210/)
 ---
